@@ -1,5 +1,5 @@
 # NYC_Green_Taxi_Data_Analysis 
- The goal of this assignment is to study the relative performance of a set of tools: Pandas, Dask, Vaex and HDF5. Analyzed the data from New York City Taxi and Limousine commission for Green Taxis. Data processing and analyses are completed using Pandas, Dask and Vaex. We will follow the article "How to analyze 100 GB of data on your laptop with Python" which is at https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of- data-on-your-laptop-with-python-f83363dda94. Runtime perfor- mance of each to perform the task is one metric to report. 
+ The goal of this assignment is to study the relative performance of a set of tools: Pandas, Dask, Vaex and HDF5. Analyzed the data from New York City Taxi and Limousine commission for Green Taxis. Data processing and analyses are completed using Pandas, Dask and Vaex. We will follow the article "How to analyze 100 GB of data on your laptop with Python" which is at https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94. Runtime perfor- mance of each to perform the task is one metric to report. 
  
 # Data Dictionary
 Please check.
